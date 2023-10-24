@@ -6,13 +6,12 @@ replace gioui.org => github.com/morlay/gio v0.0.0-20231010083638-596eb36c24de
 
 require (
 	gioui.org v0.3.1
-	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/disintegration/imaging v1.6.2
 	github.com/innoai-tech/infra v0.0.0-20230920100231-f58b6eab32ab
 	github.com/octohelm/x v0.0.0-20231011022240-331d250f40ae
 	github.com/pkg/errors v0.9.1
 	github.com/tdewolff/canvas v0.0.0-20230929121632-db7265801182
-	github.com/tdewolff/minify/v2 v2.12.9
+	github.com/tdewolff/minify/v2 v2.19.10
 	goki.dev/cam v0.9.18
 	golang.org/x/exp/shiny v0.0.0-20231006140011-7918f672742d
 	golang.org/x/image v0.13.0
